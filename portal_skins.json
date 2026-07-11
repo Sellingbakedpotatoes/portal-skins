@@ -102,9 +102,9 @@
       "curve": "sine"
     },
     {
-      "id": "rgb_test",
-      "name": "RGB Test",
-      "colors": ["#ff0000", "#00ff00", "#0000ff"],
+      "id": "redstone_circuit",
+      "name": "Redstone_circuit",
+      "colors": ["#F01B00", "#4B0000"],
       "cycleMs": 6000,
       "curve": "sine"
     },
