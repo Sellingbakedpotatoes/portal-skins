@@ -103,7 +103,7 @@
     },
     {
       "id": "redstone_circuit",
-      "name": "Redstone_circuit",
+      "name": "Redstone Circuit",
       "colors": ["#F01B00", "#4B0000"],
       "cycleMs": 6000,
       "curve": "sine"
