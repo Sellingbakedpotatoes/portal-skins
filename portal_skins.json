@@ -74,9 +74,9 @@
       "curve": "sine"
     },
     {
-      "id": "night_drive",
-      "name": "Night Drive",
-      "colors": ["#ff0080", "#7a00ff", "#0066ff", "#00ffff"],
+      "id": "harvest_circuit",
+      "name": "Harvest Circuit",
+      "colors": ["#16A34A", "#84CC16", "#EAB308", "#F97316"],
       "cycleMs": 3000,
       "curve": "sine"
     },
