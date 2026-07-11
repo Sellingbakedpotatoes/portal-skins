@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "skins": [
+    {
+      "id": "toxic_pulse",
+      "name": "Toxic Pulse",
+      "startColor": "#00ff66",
+      "endColor": "#0033ff",
+      "cycleMs": 3000,
+      "curve": "sine"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "grants": {
+    "930d6000-5575-42aa-b28c-075634b3313a": ["toxic_pulse"]
+  }
+}
