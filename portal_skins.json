@@ -87,6 +87,13 @@
       "curve": "sine"
     },
     {
+      "id": "rgb_test",
+      "name": "RGB Test",
+      "colors": ["#ff0000", "#00ff00", "#0000ff"],
+      "cycleMs": 6000,
+      "curve": "sine"
+    },
+    {
       "id": "rainbow",
       "name": "Rainbow",
       "mode": "rainbow",
