@@ -87,6 +87,13 @@
       "curve": "sine"
     },
     {
+      "id": "monochromatic",
+      "name": "Monochromatic",
+      "colors": ["#000000", "#2b2b2b", "#bfbfbf", "#ffffff"],
+      "cycleMs": 5000,
+      "curve": "sine"
+    },
+    {
       "id": "rgb_test",
       "name": "RGB Test",
       "colors": ["#ff0000", "#00ff00", "#0000ff"],
