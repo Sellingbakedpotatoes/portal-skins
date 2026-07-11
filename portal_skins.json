@@ -17,6 +17,14 @@
       "curve": "sine"
     },
     {
+      "id": "toxic_pulse",
+      "name": "Toxic Pulse",
+      "startColor": "#00ff66",
+      "endColor": "#0033ff",
+      "cycleMs": 3000,
+      "curve": "sine"
+    },
+    {
       "id": "acid_bloom",
       "name": "Acid Bloom",
       "colors": ["#d7ff00", "#00ff99"],
