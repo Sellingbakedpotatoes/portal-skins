@@ -1,99 +1,88 @@
+```json
 {
   "schemaVersion": 1,
   "skins": [
     {
       "id": "cyber_heat",
       "name": "Cyber Heat",
-      "startColor": "#ff003c",
-      "endColor": "#ff8a00",
+      "colors": ["#ff003c", "#ff8a00"],
       "cycleMs": 3000,
       "curve": "sine"
     },
     {
       "id": "void_signal",
       "name": "Void Signal",
-      "startColor": "#7a00ff",
-      "endColor": "#00d9ff",
+      "colors": ["#7a00ff", "#00d9ff"],
       "cycleMs": 3000,
       "curve": "sine"
     },
     {
       "id": "acid_bloom",
       "name": "Acid Bloom",
-      "startColor": "#d7ff00",
-      "endColor": "#00ff99",
+      "colors": ["#d7ff00", "#00ff99"],
       "cycleMs": 3000,
       "curve": "sine"
     },
     {
       "id": "blood_moon",
       "name": "Blood Moon",
-      "startColor": "#8b0000",
-      "endColor": "#ff2a6d",
+      "colors": ["#8b0000", "#ff2a6d"],
       "cycleMs": 3000,
       "curve": "sine"
     },
     {
       "id": "deep_ocean",
       "name": "Deep Ocean",
-      "startColor": "#001f54",
-      "endColor": "#00a6fb",
+      "colors": ["#001f54", "#00a6fb"],
       "cycleMs": 3000,
       "curve": "sine"
     },
     {
       "id": "plasma",
       "name": "Plasma",
-      "startColor": "#ff00cc",
-      "endColor": "#3333ff",
+      "colors": ["#ff00cc", "#3333ff"],
       "cycleMs": 3000,
       "curve": "sine"
     },
     {
       "id": "solar_flare",
       "name": "Solar Flare",
-      "startColor": "#fff200",
-      "endColor": "#ff4500",
+      "colors": ["#fff200", "#ff4500"],
       "cycleMs": 3000,
       "curve": "sine"
     },
     {
       "id": "ghost_circuit",
       "name": "Ghost Circuit",
-      "startColor": "#d9faff",
-      "endColor": "#5865f2",
+      "colors": ["#d9faff", "#5865f2"],
       "cycleMs": 3000,
       "curve": "sine"
     },
     {
       "id": "radioactive",
       "name": "Radioactive",
-      "startColor": "#39ff14",
-      "endColor": "#dfff00",
+      "colors": ["#39ff14", "#dfff00"],
       "cycleMs": 3000,
       "curve": "sine"
     },
     {
       "id": "night_drive",
       "name": "Night Drive",
-      "startColor": "#ff0080",
-      "endColor": "#00ffff",
+      "colors": ["#ff0080", "#00ffff"],
       "cycleMs": 3000,
       "curve": "sine"
     },
     {
       "id": "ember_core",
       "name": "Ember Core",
-      "startColor": "#ff2400",
-      "endColor": "#4b0082",
+      "colors": ["#ff2400", "#4b0082"],
       "cycleMs": 3000,
       "curve": "sine"
     },
     {
       "id": "frozen_pulse",
       "name": "Frozen Pulse",
-      "startColor": "#e0ffff",
-      "endColor": "#0066ff",
+      "colors": ["#e0ffff", "#0066ff"],
       "cycleMs": 3000,
       "curve": "sine"
     },
@@ -105,3 +94,4 @@
     }
   ]
 }
+```
