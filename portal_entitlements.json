@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "grants": {
-    "930d6000-5575-42aa-b28c-075634b3313a": ["toxic_pulse", "cyber_heat", "void_signal", "acid_bloom", "blood_moon", "deep_ocean", "plasma", "solar_flare", "ghost_circuit", "radioactive", "night_drive", "ember_core", "frozen_pulse", "rainbow"]
+    "930d6000-5575-42aa-b28c-075634b3313a": ["toxic_pulse", "cyber_heat", "void_signal", "acid_bloom", "blood_moon", "deep_ocean", "plasma", "solar_flare", "ghost_circuit", "radioactive", "night_drive", "ember_core", "frozen_pulse", "rgb_test", "rainbow"]
   }
 }
