@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portal Skins Admin</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">CPGS Portal Skins</p>
+          <h1>Entitlement Admin</h1>
+        </div>
+        <div class="status" id="statusPill">Not loaded</div>
+      </header>
+
+      <section class="panel connection-panel" aria-labelledby="connection-title">
+        <div class="panel-title-row">
+          <div>
+            <h2 id="connection-title">GitHub Connection</h2>
+            <p>Paste a token in your browser, load the repo JSON, then save entitlement changes as commits.</p>
+          </div>
+          <button class="secondary" id="clearTokenButton" type="button">Forget Token</button>
+        </div>
+
+        <div class="connection-grid">
+          <label>
+            <span>Token</span>
+            <input id="tokenInput" type="password" autocomplete="off" placeholder="github_pat_...">
+          </label>
+          <label>
+            <span>Owner</span>
+            <input id="ownerInput" type="text" value="Sellingbakedpotatoes">
+          </label>
+          <label>
+            <span>Repository</span>
+            <input id="repoInput" type="text" value="portal-skins">
+          </label>
+          <label>
+            <span>Branch</span>
+            <input id="branchInput" type="text" value="main">
+          </label>
+          <label>
+            <span>Skins JSON</span>
+            <input id="skinsPathInput" type="text" value="portal_skins.json">
+          </label>
+          <label>
+            <span>Entitlements JSON</span>
+            <input id="entitlementsPathInput" type="text" value="portal_entitlements.json">
+          </label>
+        </div>
+
+        <div class="button-row">
+          <label class="check-row remember-row">
+            <input id="rememberTokenInput" type="checkbox">
+            <span>Remember token on this device</span>
+          </label>
+          <button id="loadButton" type="button">Load From GitHub</button>
+        </div>
+      </section>
+
+      <section class="workspace-grid" aria-label="Admin workspace">
+        <aside class="panel player-panel">
+          <div class="panel-title-row compact">
+            <div>
+              <h2>Players</h2>
+              <p id="playerCountText">Load the repo to begin.</p>
+            </div>
+          </div>
+
+          <label class="search-box">
+            <span>Search players</span>
+            <input id="playerSearchInput" type="search" placeholder="UUID">
+          </label>
+
+          <div class="new-player">
+            <label>
+              <span>Add or open UUID</span>
+              <input id="uuidInput" type="text" placeholder="930d6000-5575-42aa-b28c-075634b3313a">
+            </label>
+            <button id="openPlayerButton" type="button">Open UUID</button>
+          </div>
+
+          <div class="player-list" id="playerList" role="list"></div>
+        </aside>
+
+        <section class="panel editor-panel" aria-labelledby="editor-title">
+          <div class="panel-title-row">
+            <div>
+              <h2 id="editor-title">No Player Selected</h2>
+              <p id="editorSubtitle">Choose a UUID or add a new one.</p>
+            </div>
+            <div class="editor-actions">
+              <button class="secondary" id="selectAllButton" type="button" disabled>Select All</button>
+              <button class="secondary" id="clearAllButton" type="button" disabled>Clear</button>
+            </div>
+          </div>
+
+          <label class="search-box">
+            <span>Search skins</span>
+            <input id="skinSearchInput" type="search" placeholder="Skin name or id" disabled>
+          </label>
+
+          <div class="skin-list" id="skinList"></div>
+
+          <div class="save-bar">
+            <div>
+              <strong id="selectedCountText">0 selected</strong>
+              <span id="dirtyText">No unsaved changes</span>
+            </div>
+            <div class="save-actions">
+              <button class="danger" id="removePlayerButton" type="button" disabled>Remove Player</button>
+              <button id="saveButton" type="button" disabled>Save Changes</button>
+            </div>
+          </div>
+        </section>
+      </section>
+
+      <section class="panel log-panel" aria-labelledby="log-title">
+        <h2 id="log-title">Activity</h2>
+        <pre id="logOutput">Ready.</pre>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
