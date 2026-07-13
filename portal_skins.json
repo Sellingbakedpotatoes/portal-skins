@@ -11,6 +11,15 @@
       "everyone": true
     },
     {
+      "id": "prism_tide",
+      "name": "Prism Tide",
+      "colors": ["#FF0040", "#FFCC00", "#00FF88", "#0099FF", "#AA00FF"],
+      "cycleMs": 6000,
+      "mode": "wave",
+      "width": 5,
+      "angle": 45
+    },
+    {
       "id": "cyber_heat",
       "name": "Cyber Heat",
       "colors": ["#ff003c", "#ff8a00"],
