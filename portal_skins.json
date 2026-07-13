@@ -36,6 +36,27 @@
       "curve": "sine"
     },
     {
+      "id": "binary_rift",
+      "name": "Binary Rift",
+      "colors": ["#00E5FF", "#FF006E"],
+      "cycleMs": 4200,
+      "mode": "gradient_spin"
+    },
+    {
+      "id": "nebula_reactor",
+      "name": "Nebula Reactor",
+      "colors": ["#2400FF", "#7A00FF", "#FF00AA", "#FF7A00", "#FFE600"],
+      "cycleMs": 6800,
+      "mode": "gradient_spin"
+    },
+    {
+      "id": "verdant_orbit",
+      "name": "Verdant Orbit",
+      "colors": ["#00FF88", "#D7FF00", "#008CFF"],
+      "cycleMs": 5000,
+      "mode": "gradient_spin"
+    },
+    {
       "id": "ember_current",
       "name": "Ember Current",
       "colors": ["#250018", "#FF003C", "#FF7A00", "#FFE066", "#00D1FF"],
