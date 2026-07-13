@@ -35,6 +35,7 @@
     "930d6000-5575-42aa-b28c-075634b3313a": [
       "acid_bloom",
       "aurora_shear",
+      "binary_rift",
       "blood_moon",
       "cyber_heat",
       "deep_ocean",
@@ -44,6 +45,7 @@
       "ghost_current",
       "harvest_circuit",
       "monochromatic",
+      "nebula_reactor",
       "plasma",
       "prism_tide",
       "radioactive",
@@ -51,7 +53,8 @@
       "redstone_circuit",
       "solar_flare",
       "spectrum_spin",
-      "toxic_sunset"
+      "toxic_sunset",
+      "verdant_orbit"
     ],
     "e6643fc5-8b9f-4fff-8fda-d03b6555f849": [
       "ember_core",
