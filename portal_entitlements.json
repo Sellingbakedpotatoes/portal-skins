@@ -8,21 +8,21 @@
       "spectrum_spin"
     ],
     "76f9f727-aa5b-480c-9291-ae2954d13cdc": [
-      "toxic_pulse",
-      "cyber_heat",
-      "void_signal",
       "acid_bloom",
       "blood_moon",
+      "cyber_heat",
       "deep_ocean",
-      "plasma",
-      "solar_flare",
-      "ghost_circuit",
-      "radioactive",
-      "harvest_circuit",
       "ember_core",
       "frozen_pulse",
+      "ghost_circuit",
+      "harvest_circuit",
+      "monochromatic",
+      "plasma",
+      "radioactive",
       "redstone_circuit",
-      "monochromatic"
+      "solar_flare",
+      "spectrum_spin",
+      "void_signal"
     ],
     "930d6000-5575-42aa-b28c-075634b3313a": [
       "acid_bloom",
