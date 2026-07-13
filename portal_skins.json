@@ -52,6 +52,15 @@
       "width": 8
     },
     {
+      "id": "evil_barber_pole",
+      "name": "Evil Barber Pole",
+      "colors": ["#111016", "#D2382E", "#111016", "#3452D8"],
+      "cycleMs": 6000,
+      "mode": "wave",
+      "angle": 210,
+      "width": 8
+    },
+    {
       "id": "nebula_reactor",
       "name": "Nebula Reactor",
       "colors": ["#2400FF", "#7A00FF", "#FF00AA", "#FF7A00", "#FFE600"],
