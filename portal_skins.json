@@ -20,6 +20,15 @@
       "angle": 45
     },
     {
+      "id": "aurora_shear",
+      "name": "Aurora Shear",
+      "colors": ["#25F4FF", "#7CFF6B", "#FFF45C", "#FF7AD9", "#7A5CFF"],
+      "cycleMs": 7000,
+      "mode": "wave",
+      "angle": 22,
+      "width": 4
+    },
+    {
       "id": "cyber_heat",
       "name": "Cyber Heat",
       "colors": ["#ff003c", "#ff8a00"],
@@ -27,11 +36,31 @@
       "curve": "sine"
     },
     {
-      "id": "void_signal",
-      "name": "Void Signal",
-      "colors": ["#7a00ff", "#ff00cc", "#0066ff", "#00d9ff"],
-      "cycleMs": 3000,
-      "curve": "sine"
+      "id": "ember_current",
+      "name": "Ember Current",
+      "colors": ["#250018", "#FF003C", "#FF7A00", "#FFE066", "#00D1FF"],
+      "cycleMs": 5200,
+      "mode": "wave",
+      "angle": 135,
+      "width": 6
+    },
+    {
+      "id": "ghost_current",
+      "name": "Ghost Current",
+      "colors": ["#E9FFFF", "#6A7CFF"],
+      "cycleMs": 4800,
+      "mode": "wave",
+      "angle": 315,
+      "width": 7
+    },
+    {
+      "id": "toxic_sunset",
+      "name": "Toxic Sunset",
+      "colors": ["#B6FF00", "#FF5A00", "#A000FF"],
+      "cycleMs": 5600,
+      "mode": "wave",
+      "angle": 70,
+      "width": 5
     },
     {
       "id": "toxic_pulse",
@@ -81,13 +110,6 @@
       "id": "solar_flare",
       "name": "Solar Flare",
       "colors": ["#fff200", "#ff4500"],
-      "cycleMs": 3000,
-      "curve": "sine"
-    },
-    {
-      "id": "ghost_circuit",
-      "name": "Ghost Circuit",
-      "colors": ["#d9faff", "#5865f2"],
       "cycleMs": 3000,
       "curve": "sine"
     },
