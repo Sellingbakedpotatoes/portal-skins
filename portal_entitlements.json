@@ -25,22 +25,22 @@
       "monochromatic"
     ],
     "930d6000-5575-42aa-b28c-075634b3313a": [
-      "toxic_pulse",
-      "cyber_heat",
-      "void_signal",
       "acid_bloom",
       "blood_moon",
+      "cyber_heat",
       "deep_ocean",
-      "plasma",
-      "solar_flare",
-      "ghost_circuit",
-      "radioactive",
-      "harvest_circuit",
       "ember_core",
       "frozen_pulse",
-      "redstone_circuit",
+      "ghost_circuit",
+      "harvest_circuit",
+      "monochromatic",
+      "plasma",
+      "radioactive",
       "rainbow",
-      "monochromatic"
+      "redstone_circuit",
+      "solar_flare",
+      "toxic_pulse",
+      "void_signal"
     ],
     "e6643fc5-8b9f-4fff-8fda-d03b6555f849": [
       "void_signal",
