@@ -11,18 +11,26 @@
     ],
     "76f9f727-aa5b-480c-9291-ae2954d13cdc": [
       "acid_bloom",
+      "aurora_shear",
+      "binary_rift",
       "blood_moon",
       "cyber_heat",
       "deep_ocean",
       "ember_core",
+      "ember_current",
       "frozen_pulse",
+      "ghost_current",
       "harvest_circuit",
       "monochromatic",
+      "nebula_reactor",
       "plasma",
+      "prism_tide",
       "radioactive",
       "redstone_circuit",
       "solar_flare",
-      "spectrum_spin"
+      "spectrum_spin",
+      "toxic_sunset",
+      "verdant_orbit"
     ],
     "930d6000-5575-42aa-b28c-075634b3313a": [
       "acid_bloom",
