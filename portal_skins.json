@@ -62,6 +62,13 @@
       "curve": "sine"
     },
     {
+      "id": "spectrum_spin",
+      "name": "Spectrum Spin",
+      "colors": ["#FF003C", "#FF8A00", "#FFE600", "#00FF66", "#0099FF", "#B000FF"],
+      "cycleMs": 6000,
+      "mode": "gradient_spin"
+    },
+    {
       "id": "solar_flare",
       "name": "Solar Flare",
       "colors": ["#fff200", "#ff4500"],
