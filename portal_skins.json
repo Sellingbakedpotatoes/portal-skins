@@ -30,7 +30,8 @@
       "startColor": "#00ff66",
       "endColor": "#0033ff",
       "cycleMs": 3000,
-      "curve": "sine"
+      "curve": "sine",
+      "everyone": true
     },
     {
       "id": "acid_bloom",
