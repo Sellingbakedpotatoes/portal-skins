@@ -5,10 +5,10 @@
     {
       "id": "dimensia",
       "name": "Dimensia",
-      "colors": ["#3B8BFF", "#3B8BFF"],
+      "colors": ["#3B8BFF", "#FF833B"],
       "cycleMs": 3000,
       "curve": "sine",
-      "everyone": "true"
+      "everyone": true
     },
     {
       "id": "cyber_heat",
