@@ -3,6 +3,14 @@
   "schemaVersion": 1,
   "skins": [
     {
+      "id": "dimensia",
+      "name": "Dimensia",
+      "colors": ["#3B8BFF", "#3B8BFF"],
+      "cycleMs": 3000,
+      "curve": "sine"
+      "everyone": "true"
+    },
+    {
       "id": "cyber_heat",
       "name": "Cyber Heat",
       "colors": ["#ff003c", "#ff8a00"],
