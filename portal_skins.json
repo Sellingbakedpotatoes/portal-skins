@@ -7,7 +7,7 @@
       "name": "Dimensia",
       "colors": ["#3B8BFF", "#FF833B"],
       "cycleMs": 3000,
-      "curve": "sine",
+      "mode": "gradient_spin",
       "everyone": true
     },
     {
