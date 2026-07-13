@@ -14,15 +14,13 @@
       "deep_ocean",
       "ember_core",
       "frozen_pulse",
-      "ghost_circuit",
       "harvest_circuit",
       "monochromatic",
       "plasma",
       "radioactive",
       "redstone_circuit",
       "solar_flare",
-      "spectrum_spin",
-      "void_signal"
+      "spectrum_spin"
     ],
     "930d6000-5575-42aa-b28c-075634b3313a": [
       "acid_bloom",
@@ -43,11 +41,9 @@
       "redstone_circuit",
       "solar_flare",
       "spectrum_spin",
-      "ghost_circuit",
-      "void_signal"
+      "toxic_sunset"
     ],
     "e6643fc5-8b9f-4fff-8fda-d03b6555f849": [
-      "void_signal",
       "ember_core",
       "radioactive",
       "deep_ocean",
