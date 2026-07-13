@@ -7,7 +7,7 @@
       "name": "Dimensia",
       "colors": ["#3B8BFF", "#3B8BFF"],
       "cycleMs": 3000,
-      "curve": "sine"
+      "curve": "sine",
       "everyone": "true"
     },
     {
