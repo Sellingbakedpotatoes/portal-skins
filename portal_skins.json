@@ -13,7 +13,7 @@
     {
       "id": "femboy",
       "name": "Femboy",
-      "colors": ["#D460A7", "#E4ADCD", "#FFFFFF", "#57CEF8", "#57CEF8", "#FFFFFF", "#E4ADCD", "#D460A7"],
+      "colors": ["#D460A7", "#E4ADCD", "#FFFFFF", "#57CEF8", "#FFFFFF", "#E4ADCD"],
       "cycleMs": 5000,
       "mode": "wave",
       "width": 5,
@@ -26,7 +26,7 @@
       "cycleMs": 6500,
       "mode": "wave",
       "width": 5,
-      "angle": 35
+      "angle": 215
     },
     {
       "id": "prism_tide",
