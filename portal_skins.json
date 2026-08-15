@@ -11,15 +11,6 @@
       "everyone": true
     },
     {
-      "id": "femboy",
-      "name": "Femboy",
-      "colors": ["#D460A7", "#DB9EC2", "#FFFFFF", "#57CEF8", "#FFFFFF", "#DB9EC2"],
-      "cycleMs": 5000,
-      "mode": "wave",
-      "width": 7,
-      "angle": 315
-    },
-    {
       "id": "portalmod_mod_playtester",
       "name": "PortalMod Mod Playtester",
       "colors": ["#2E233D", "#370503", "#9C493C", "#B06A27", "#FCFFFE", "#804917", "#17161B"],
@@ -144,11 +135,27 @@
       "curve": "sine"
     },
     {
+      "id": "femboy",
+      "name": "Femboy",
+      "colors": ["#D460A7", "#DB9EC2", "#FFFFFF", "#57CEF8", "#FFFFFF", "#DB9EC2"],
+      "cycleMs": 5000,
+      "mode": "wave",
+      "width": 7,
+      "angle": 315
+    },
+    {
       "id": "deep_ocean",
       "name": "Deep Ocean",
       "colors": ["#001f54", "#00a6fb"],
       "cycleMs": 3000,
       "curve": "sine"
+    },
+    {
+      "id": "luminous_reactor",
+      "name": "Luminous Reactor",
+      "colors": ["#671BAB", "#B05F07", "#209569", "#941F8F", "#CACA21", "#158F8E"],
+      "cycleMs": 7400,
+      "mode": "gradient_spin"
     },
     {
       "id": "plasma",
