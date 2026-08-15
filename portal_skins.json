@@ -151,6 +151,15 @@
       "curve": "sine"
     },
     {
+      "id": "midnight_current",
+      "name": "Midnight Current",
+      "colors": ["#65106C", "#BCBA26", "#13E1E5"],
+      "cycleMs": 5600,
+      "mode": "wave",
+      "width": 7,
+      "angle": 46
+    },
+    {
       "id": "luminous_reactor",
       "name": "Luminous Reactor",
       "colors": ["#671BAB", "#B05F07", "#209569", "#941F8F", "#CACA21", "#158F8E"],
