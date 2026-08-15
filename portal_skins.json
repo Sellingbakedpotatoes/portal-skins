@@ -11,6 +11,21 @@
       "everyone": true
     },
     {
+      "id": "femboy",
+      "name": "Femboy",
+      "colors": ["#D460A7", "#E4ADCD", "#FFFFFF", "#57CEF8", "#FFFFFF", "#E4ADCD"],
+      "cycleMs": 5000,
+      "mode": "gradient_spin",
+    },
+    {
+      "id": "cinder_halo",
+      "name": "Cinder Halo",
+      "mode": "gradient_spin",
+      "colors": ["#2E233D", "#370503", "#9C493C", "#B06A27", "#FCFFFE", "#804917", "#17161B"],
+      "cycleMs": 6500,
+      "curve": "sine"
+    },
+    {
       "id": "prism_tide",
       "name": "Prism Tide",
       "colors": ["#FF0040", "#FFCC00", "#00FF88", "#0099FF", "#AA00FF"],
