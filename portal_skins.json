@@ -13,7 +13,7 @@
     {
       "id": "femboy",
       "name": "Femboy",
-      "colors": ["#D460A7", "#E4ADCD", "#FFFFFF", "#57CEF8", "#FFFFFF", "#E4ADCD"],
+      "colors": ["#D460A7", "#DB9EC2", "#FFFFFF", "#57CEF8", "#FFFFFF", "#DB9EC2"],
       "cycleMs": 5000,
       "mode": "wave",
       "width": 7,
