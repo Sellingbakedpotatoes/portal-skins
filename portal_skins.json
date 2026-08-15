@@ -16,7 +16,7 @@
       "colors": ["#D460A7", "#E4ADCD", "#FFFFFF", "#57CEF8", "#FFFFFF", "#E4ADCD"],
       "cycleMs": 5000,
       "mode": "wave",
-      "width": 5,
+      "width": 7,
       "angle": 150
     },
     {
