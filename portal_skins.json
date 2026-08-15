@@ -20,8 +20,8 @@
       "angle": 150
     },
     {
-      "id": "cinder_halo",
-      "name": "Cinder Halo",
+      "id": "portalmod_mod_playtester",
+      "name": "PortalMod Mod Playtester",
       "colors": ["#2E233D", "#370503", "#9C493C", "#B06A27", "#FCFFFE", "#804917", "#17161B"],
       "cycleMs": 6500,
       "mode": "wave",
@@ -30,7 +30,7 @@
     },
     {
       "id": "prism_tide",
-      "name": "PortalMod Mod Tester",
+      "name": "Prism Tide",
       "colors": ["#FF0040", "#FFCC00", "#00FF88", "#0099FF", "#AA00FF"],
       "cycleMs": 6000,
       "mode": "wave",
