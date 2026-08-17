@@ -78,6 +78,13 @@
       "mode": "gradient_spin"
     },
     {
+      "id": "rm_fluid_portal",
+      "name": "Fluid Portal",
+      "colors": ["#219900", "#75EB00", "#008502", "#5CFF6F", "#32FA2E", "#00B815", "#70FF7A", "#008F02"],
+      "cycleMs": 4100,
+      "mode": "gradient_spin"
+    },
+    {
       "id": "verdant_orbit",
       "name": "Verdant Orbit",
       "colors": ["#00FF88", "#D7FF00", "#008CFF"],
