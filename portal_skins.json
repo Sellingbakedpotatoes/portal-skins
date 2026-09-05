@@ -75,6 +75,15 @@
       "everyone": true
     },
     {
+      "id": "margesimpsonspecial",
+      "name": "MargeSimpsonSpecial",
+      "colors": ["#1F51FE", "#1F51FE", "#F6C81B", "#ADF355", "#ADF355", "#ADF355", "#F6C81B", "#F91E02"],
+      "cycleMs": 6900,
+      "mode": "wave",
+      "width": 4.5,
+      "angle": 0
+    },
+    {
       "id": "evil_barber_pole",
       "name": "Evil Barber Pole",
       "colors": ["#111016", "#D2382E", "#111016", "#3452D8"],
