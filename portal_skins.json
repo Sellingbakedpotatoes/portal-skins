@@ -38,6 +38,19 @@
       "width": 4
     },
     {
+      "id": "scanline",
+      "name": "scanline",
+      "colors": [
+        "#00FF9D",
+        "#004647"
+      ],
+      "cycleMs": 5000,
+      "mode": "wave",
+      "width": 1,
+      "angle": 0,      
+      "everyone": true
+    },
+    {
       "id": "cyber_heat",
       "name": "Cyber Heat",
       "colors": ["#ff003c", "#ff8a00"],
