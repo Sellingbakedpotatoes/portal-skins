@@ -58,7 +58,20 @@
       "cycleMs": 6000,
       "mode": "wave",
       "angle": 30,
-      "width": 8,
+      "width": 8
+    },
+    {
+      "id": "shack_of_snow",
+      "name": "Shack Of Snow",
+      "colors": [
+        "#7D4877",
+        "#DEA88D",
+        "#FDF4C9"
+      ],
+      "cycleMs": 2400,
+      "mode": "wave",
+      "width": 6.7,
+      "angle": 135,
       "everyone": true
     },
     {
