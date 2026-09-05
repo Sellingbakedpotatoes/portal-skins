@@ -93,6 +93,21 @@
       "width": 8
     },
     {
+      "id": "nether",
+      "name": "nether",
+      "colors": [
+        "#8132D4",
+        "#631EC6",
+        "#4913B5",
+        "#9A4DDF"
+      ],
+      "cycleMs": 1500,
+      "mode": "wave",
+      "width": 1,
+      "angle": 25,
+      "everyone": true
+    },
+    {
       "id": "nebula_reactor",
       "name": "Nebula Reactor",
       "colors": ["#2400FF", "#7A00FF", "#FF00AA", "#FF7A00", "#FFE600"],
