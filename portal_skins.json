@@ -39,7 +39,7 @@
     },
     {
       "id": "scanline",
-      "name": "scanline",
+      "name": "Scanline",
       "colors": [
         "#00FF9D",
         "#004647"
@@ -107,7 +107,7 @@
     },
     {
       "id": "nether",
-      "name": "nether",
+      "name": "Nether",
       "colors": [
         "#8132D4",
         "#631EC6",
